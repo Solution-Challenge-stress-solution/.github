@@ -47,4 +47,4 @@ STREcording offers a unique solution, allowing users to record and analyze their
 |**Name**|이정현|고경남|박정준|이지원|
 |:--:|:----:|:----:|:----:|:----:|
 |**Position**|Frontend|Backend|Machine Learning<br> Backend|Backend|
-|**github**|[JHyeon0915](https://github.com/JHyeon0915")|[prislewarz](https://github.com/prislewarz)|[rhrudska987](https://github.com/rhrudska987)|[orieasy1](https://github.com/orieasy1)|
+|**github**|[JHyeon0915](https://github.com/JHyeon0915")|[rhrudska987](https://github.com/rhrudska987)|[prislewarz](https://github.com/prislewarz)|[orieasy1](https://github.com/orieasy1)|
