@@ -29,7 +29,8 @@ STREcording offers a unique solution, allowing users to record and analyze their
 
 ## 💻Tech Stack
 
-![image](https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/eab0a909-396a-41be-b05e-955ca54a1e3e)
+![image](https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/9b7c4803-e389-489b-b2cc-52133d11b3f5)
+
 
 
 <br><br>
