@@ -4,6 +4,8 @@
 <br>
 </div>
 
+<br>
+
 ## 🔥 Motivation
 
 Mental health has become a significant concern in Korea. According to SBS News, the number of depression patients in Korea exceeded 1 million in 2022, and in KBS News, one in four elementary, middle, and high school students are considering extreme choices like suicide due to academic stress. 
@@ -12,15 +14,19 @@ The highly competitive nature of Korean society contributes to a widespread expe
 
 As mental health has become a serious concern in Korean society, we felt the need for an app that could present people’s emotions and stress with precise indexes and manage them.
 
+<br>
+
 ## ⛳ Targeted UN SDG
 
 <img width="193" alt="image" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/bcaf588f-4149-4035-addc-7e287febb1f4">
 
+<br><br>
 
 ## 🎙️ What is STREcording?
 
-STREcording offers a unique solution, allowing users to record and analyze their emotions through voice diaries and providing accurate stress level and activity recommendations to foster psychological well-being and promote a healthier lifestyle.
+STREcording offers a unique solution, allowing users to record and analyze their emotions through voice diaries and providing accurate stress levels and activity recommendations to foster psychological well-being and promote a healthier lifestyle.
 
+<br>
 
 ## 💻 Tech Stack
 
@@ -40,11 +46,13 @@ STREcording offers a unique solution, allowing users to record and analyze their
 
 ![Colab](https://github.com/Solution-Challenge-stress-solution/.github/assets/66584938/dd32f06b-df90-4a9e-9547-d16bfa0c8013)
 
+<br>
 
 ## 🛠️ System Architecture
 
 <img width="635" alt="image" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/6cbecece-5d4e-4fa9-8011-ed1c3e64880c">
 
+<br><br>
 
 ## 🏃‍♀️ How to Run
 
@@ -80,22 +88,26 @@ Before running this project, you need to have Flutter installed on your machine.
    flutter run
    ```
 
+<br>
+
 ## 🎬Demo Video
 [![STRecording](http://img.youtube.com/vi/tU19RDkrfUk/0.jpg)](https://www.youtube.com/watch?v=tU19RDkrfUk&t=0s) 
+
+<br>
+
+## 📜API Docs
+
+👉🏻[STRecording Swagger](http://strecording.shop:8080/swagger-ui/index.html#/) 
+
 <br><br>
-  
 
- ## 📜API Docs
- 👉🏻[STRecording Swagger](http://strecording.shop:8080/swagger-ui/index.html#/) 
- <br><br>
+## 🔍ERD
 
-  
- ## 🔍ERD
- <img width="479" alt="image" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/59828706/986eb343-5ee9-4db1-a479-433075db80a6">
+<img width="479" alt="image" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/59828706/986eb343-5ee9-4db1-a479-433075db80a6">
 
- 
- 👉🏻[ERDCloud](https://www.erdcloud.com/d/ca8giPxrfJzhiijus) 
- <br><br>
+👉🏻[ERDCloud](https://www.erdcloud.com/d/ca8giPxrfJzhiijus) 
+
+<br>
  
 
 ## 👨‍👩‍👧‍👦 Contributors
