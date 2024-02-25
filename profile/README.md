@@ -1,6 +1,6 @@
 # STREcording
 <div align=center>
-<img width="723" alt="image" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/82bb6dff-f8b2-42d6-92d7-ea36275714a7">
+<img width="100%" alt="제목 없음" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/55db613e-18e9-4ca0-b50b-5da99c3fa135">
 <br>
 </div>
 
