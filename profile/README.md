@@ -1,6 +1,7 @@
 # STREcording
-
-Record your story, Discover your emotion and stress
+<div align=center>
+<img src="https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/c776497c-3a8e-462c-8f89-7af9d6c13d70"> <br>
+</div>
 
 ## 🔥 Motivation
 
@@ -16,8 +17,6 @@ As mental health has become a serious concern in Korean society, we felt the nee
 
 
 ## 🎙️ What is STREcording?
-
-<img width="621" alt="image" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/c776497c-3a8e-462c-8f89-7af9d6c13d70">
 
 STREcording offers a unique solution, allowing users to record and analyze their emotions through voice diaries and providing accurate stress level and activity recommendations to foster psychological well-being and promote a healthier lifestyle.
 
@@ -79,6 +78,24 @@ Before running this project, you need to have Flutter installed on your machine.
    ```
    flutter run
    ```
+
+## 🎬Demo Video
+[![STRecording](http://img.youtube.com/vi/tU19RDkrfUk/0.jpg)](https://www.youtube.com/watch?v=tU19RDkrfUk&t=0s) 
+<br><br>
+  
+
+ ## 📜API Docs
+ 👉🏻[STRecording Swagger](http://strecording.shop:8080/swagger-ui/index.html#/) 
+ <br><br>
+
+  
+ ## 🔍ERD
+ <img width="479" alt="image" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/59828706/986eb343-5ee9-4db1-a479-433075db80a6">
+
+ 
+ 👉🏻[ERDCloud](https://www.erdcloud.com/d/ca8giPxrfJzhiijus) 
+ <br><br>
+ 
 
 ## 👨‍👩‍👧‍👦 Contributors
 
