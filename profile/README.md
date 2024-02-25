@@ -1,6 +1,7 @@
 # STREcording
 <div align=center>
-<img src="https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/c776497c-3a8e-462c-8f89-7af9d6c13d70"> <br>
+<img width="723" alt="image" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/82bb6dff-f8b2-42d6-92d7-ea36275714a7">
+<br>
 </div>
 
 ## 🔥 Motivation
