@@ -90,6 +90,23 @@ Before running this project, you need to have Flutter installed on your machine.
 
 <br>
 
+## 🛠️Deployment Process (CI/CD using Github Actions)
+
+### Local : Gradle build, Docker build
+1. Build jar : `gradle build`
+2. Build Docker Image : `docker build -t yourAccountName/repositoryName ./`
+3. Push to Docker Hub : `docker push yourAccountName/repositoryName`
+
+### Server : Deploy
+1. Pull from Docker Hub : `docker pull yourAccountName/repositoryName`
+2. Run Docker Image : `docker run -d -p 8080:8080 yourAccountName/repositoryName`
+
+(`AccountName` and `RepositoryName` are from Docker Hub)
+
+
+<br>
+
+
 ## 🎬Demo Video
 [![STRecording](http://img.youtube.com/vi/tU19RDkrfUk/0.jpg)](https://www.youtube.com/watch?v=tU19RDkrfUk&t=0s) 
 
@@ -108,11 +125,36 @@ Before running this project, you need to have Flutter installed on your machine.
 👉🏻[ERDCloud](https://www.erdcloud.com/d/ca8giPxrfJzhiijus) 
 
 <br>
- 
+
+## 📑Convention
+
+### 1) Commit Convention
+
+| Tag name | Description                                                 |
+| -------- | ----------------------------------------------------------- |
+| feat     | Commits that add a new feature                              |
+| fix      | Commits that fix a bug                                      |
+| hotfix   | Fix an urgent bug in issue or QA                            |
+| build    | Commits that affect build components                        |
+| chore    | Miscellaneous commits                                       |
+| style    | Commits for code styling or format                          |
+| docs     | Commits that affect documentation only                      |
+| test     | Commits that add missing tests or correcting existing tests |
+| refactor | Commits for code refactoring                                |
+
+### 2) Coding Convention
+
+- Variables, functions, and class names should use camelCase.
+- For functions, use a verb followed by a noun.
+- Column names stored in the DB should use snake_case.
+- URL names should use kebab-case, consisting of lowercase nouns.
+- Use hyphens (-) as separators, and avoid using separators when possible.
+
+<br>
 
 ## 👨‍👩‍👧‍👦 Contributors
 
 |**Name**|이정현|고경남|박정준|이지원|
 |:--:|:----:|:----:|:----:|:----:|
-|**Position**|Frontend|Backend|Machine Learning<br> Backend|Backend|
+|**Position**|Frontend|Backend|AI<br> Backend|Backend|
 |**github**|[JHyeon0915](https://github.com/JHyeon0915")|[rhrudska987](https://github.com/rhrudska987)|[prislewarz](https://github.com/prislewarz)|[orieasy1](https://github.com/orieasy1)|
