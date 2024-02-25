@@ -3,7 +3,7 @@
 Record your story, Discover your emotion and stress
 
 
-## 🔥Motivation
+## 🔥 Motivation
 
 Mental health has become a significant concern in Korea. According to SBS News, the number of depression patients in Korea exceeded 1 million in 2022, and in KBS News, one in four elementary, middle, and high school students are considering extreme choices like suicide due to academic stress. 
 
@@ -13,13 +13,13 @@ As mental health has become a serious concern in Korean society, we felt the nee
 
 <br><br>
 
-## ⛳Targeted UN SDG
+## ⛳ Targeted UN SDG
 
 <img width="193" alt="image" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/bcaf588f-4149-4035-addc-7e287febb1f4">
 
 <br><br>
 
-## 🎙️What is STREcording?
+## 🎙️ What is STREcording?
 
 <img width="621" alt="image" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/c776497c-3a8e-462c-8f89-7af9d6c13d70">
 
@@ -27,22 +27,30 @@ STREcording offers a unique solution, allowing users to record and analyze their
 
 <br><br>
 
-## 💻Tech Stack
+## 💻 Tech Stack
+### FrontEnd
+![Flutter](https://github.com/Solution-Challenge-stress-solution/.github/assets/66584938/b7e64be6-19b9-4c9e-9f2b-77219dd44dfa)
 
-![image](https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/9b7c4803-e389-489b-b2cc-52133d11b3f5)
+### BackEnd
+![GCP](https://github.com/Solution-Challenge-stress-solution/.github/assets/66584938/49b04f73-ac5b-4574-8728-f486cd82960d)
+![Docker](https://github.com/Solution-Challenge-stress-solution/.github/assets/66584938/2270999b-f858-4a52-9a39-fca37ee64d8c)
+![Spring Boot](https://github.com/Solution-Challenge-stress-solution/.github/assets/66584938/5103020c-03e3-4d64-b9b4-b03eb1daaee5)
+![MySQL](https://github.com/Solution-Challenge-stress-solution/.github/assets/66584938/a4a11ea5-f18e-4f0a-bca1-30a432653e2b)
+![JWT](https://github.com/Solution-Challenge-stress-solution/.github/assets/66584938/c38af486-fe33-4119-89df-8bee5d88bf29)
 
-
+### Machine Learning
+![Colab](https://github.com/Solution-Challenge-stress-solution/.github/assets/66584938/dd32f06b-df90-4a9e-9547-d16bfa0c8013)
 
 <br><br>
 
-## 🛠️System Architecture
+## 🛠️ System Architecture
 
 <img width="665" alt="image" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/056800b2-2a8c-44e3-b584-5981ddf0417c">
 
 
 <br><br>
 
-## 👨‍👩‍👧‍👦Contributors
+## 👨‍👩‍👧‍👦 Contributors
 
 |**Name**|이정현|고경남|박정준|이지원|
 |:--:|:----:|:----:|:----:|:----:|
