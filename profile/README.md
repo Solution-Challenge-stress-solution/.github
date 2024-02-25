@@ -43,7 +43,8 @@ STREcording offers a unique solution, allowing users to record and analyze their
 
 ## 🛠️ System Architecture
 
-<img width="665" alt="image" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/056800b2-2a8c-44e3-b584-5981ddf0417c">
+<img width="635" alt="image" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/6cbecece-5d4e-4fa9-8011-ed1c3e64880c">
+
 
 ## 🏃‍♀️ How to Run
 
