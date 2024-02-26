@@ -28,6 +28,9 @@ STREcording offers a unique solution, allowing users to record and analyze their
 
 <br>
 
+## 🎬Introducing our application
+[![STRecording](http://img.youtube.com/vi/tU19RDkrfUk/0.jpg)](https://www.youtube.com/watch?v=tU19RDkrfUk&t=0s) 
+
 ## 💻 Tech Stack
 
 ### FrontEnd
@@ -125,16 +128,13 @@ Before running this project, you need to have Flutter installed on your machine.
 ## 🎬Working Video
 [![workingvideo](http://img.youtube.com/vi/iFsZmd-QRAY/0.jpg)](https://www.youtube.com/watch?v=iFsZmd-QRAY)
 
-
+<br>
 <br>
 
-## 🎬Demo Video
-[![STRecording](http://img.youtube.com/vi/tU19RDkrfUk/0.jpg)](https://www.youtube.com/watch?v=tU19RDkrfUk&t=0s) 
-
-<be>
 ## 📜API Docs
 
 👉🏻[STRecording Swagger](http://strecording.shop:8080/swagger-ui/index.html#/) 
+
 
 <br><br>
 
