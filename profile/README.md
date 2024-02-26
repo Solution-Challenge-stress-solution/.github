@@ -67,6 +67,8 @@ STREcording offers a unique solution, allowing users to record and analyze their
 
 Download apk file [here](https://drive.google.com/file/d/1QBPUaDKrCEAQaf-QMJJIxq3ohxxGSQ9L/view?usp=drive_link)!
 
+<br>
+
 ## 🏃‍♀️ How to Run
 
 ### Getting Started
@@ -136,6 +138,12 @@ Before running this project, you need to have Flutter installed on your machine.
 <img width="479" alt="image" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/59828706/986eb343-5ee9-4db1-a479-433075db80a6">
 
 👉🏻[ERDCloud](https://www.erdcloud.com/d/ca8giPxrfJzhiijus) 
+
+<br>
+
+## 🎨Design(initial)
+
+👉🏻[STRecording Figma](https://www.figma.com/file/FhMHDXiutIzYBm6gbMwtH5/Google-Solution-Challenge?type=design&node-id=0-1&mode=design)
 
 <br>
 
