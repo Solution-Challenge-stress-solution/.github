@@ -93,7 +93,7 @@ Before running this project, you need to have Flutter installed on your machine.
 ## 🛠️Deployment Process (CI/CD using Github Actions)
 
 ### Local : Gradle build, Docker build
-1. Build jar : `gradle build`
+1. Build jar : `gradle build` or `gradlew build`
 2. Build Docker Image : `docker build -t yourAccountName/repositoryName ./`
 3. Push to Docker Hub : `docker push yourAccountName/repositoryName`
 
@@ -154,7 +154,8 @@ Before running this project, you need to have Flutter installed on your machine.
 
 ## 👨‍👩‍👧‍👦 Contributors
 
-|**Name**|이정현|고경남|박정준|이지원|
-|:--:|:----:|:----:|:----:|:----:|
-|**Position**|Frontend|Backend|AI<br> Backend|Backend|
-|**github**|[JHyeon0915](https://github.com/JHyeon0915")|[rhrudska987](https://github.com/rhrudska987)|[prislewarz](https://github.com/prislewarz)|[orieasy1](https://github.com/orieasy1)|
+|                                  Frontend                                   |                                    Backend                                   |                                   Backend/ML                                    |                                    Backend                                     |
+| :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/66584938?v=4" width=150px> | <img src="https://avatars.githubusercontent.com/u/59828706?v=4" width=150px> | <img src="https://avatars.githubusercontent.com/u/105757703?v=4" width=150px> | <img src="https://avatars.githubusercontent.com/u/129071350?v=4" width=150px> |
+|                     [이정현](https://github.com/JHyeon0915)                     |                     [고경남](https://github.com/rhrudska987)                     |                   [박정준](https://github.com/prislewarz)                   |                   [이지원](https://github.com/orieasy1)                   |
+
