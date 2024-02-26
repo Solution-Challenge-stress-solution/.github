@@ -37,14 +37,21 @@ STREcording offers a unique solution, allowing users to record and analyze their
 ### BackEnd
 
 ![GCP](https://github.com/Solution-Challenge-stress-solution/.github/assets/66584938/49b04f73-ac5b-4574-8728-f486cd82960d)
-![Docker](https://github.com/Solution-Challenge-stress-solution/.github/assets/66584938/2270999b-f858-4a52-9a39-fca37ee64d8c)
 ![Spring Boot](https://github.com/Solution-Challenge-stress-solution/.github/assets/66584938/5103020c-03e3-4d64-b9b4-b03eb1daaee5)
 ![MySQL](https://github.com/Solution-Challenge-stress-solution/.github/assets/66584938/a4a11ea5-f18e-4f0a-bca1-30a432653e2b)
 ![JWT](https://github.com/Solution-Challenge-stress-solution/.github/assets/66584938/c38af486-fe33-4119-89df-8bee5d88bf29)
 
+- GCP: `Google Compute Engine`, `Google Cloud Storage`, `Google Cloud SQL`, `Google Cloud Speech-to-Text`, `Google Cloud Run`
+- Spring: `Spring Boot`, `Spring Data JPA`, `Spring Security`
+
 ### Machine Learning
 
 ![Colab](https://github.com/Solution-Challenge-stress-solution/.github/assets/66584938/dd32f06b-df90-4a9e-9547-d16bfa0c8013)
+
+- ML Model: `Tesorflow`, `Keras`, `Scikit-learn`, `librosa`, `Numpy`, `Pandas`, `Seaborn` etc.
+
+### DevOps
+![Docker](https://github.com/Solution-Challenge-stress-solution/.github/assets/66584938/2270999b-f858-4a52-9a39-fca37ee64d8c)
 
 <br>
 
@@ -53,6 +60,12 @@ STREcording offers a unique solution, allowing users to record and analyze their
 <img width="635" alt="image" src="https://github.com/Solution-Challenge-stress-solution/.github/assets/129071350/6cbecece-5d4e-4fa9-8011-ed1c3e64880c">
 
 <br><br>
+
+## 📲 Execution Method
+
+### For Android User 
+
+Download apk file [here](https://drive.google.com/file/d/1QBPUaDKrCEAQaf-QMJJIxq3ohxxGSQ9L/view?usp=drive_link)!
 
 ## 🏃‍♀️ How to Run
 
